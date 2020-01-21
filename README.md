@@ -7,7 +7,7 @@
 -- Para realização do Cálculo, basta clicar no botão "Calcular"
   - N recebe o valor que representa o tamanho do array
   - V recebe o conteúdo do array
-  - A saída é representada com a menor soma possível e a maior soma possível separados por espaço, originados da soma n - 1
+  - A saída é representada com a menor soma possível e a maior soma possível separados por espaço, originados da soma n - 1 dos n números inteiros fornecidos
 
 
 -- Exemplo de Cálculo
