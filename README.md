@@ -9,5 +9,7 @@
   - V recebe o conteúdo do array
   - A saída é representada com a menor soma possível e a maior soma possível separados por espaço, originados da soma n - 1
 
+
 -- Exemplo de Cálculo
+
 ![alt text](https://github.com/HenriqLR/Pitagoras_Ampli/blob/master/img/captura.JPG)
