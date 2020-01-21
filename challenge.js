@@ -9,7 +9,7 @@ function calculo() {
     var dados_convertidos = val_v.split(" ");     
     
     // valida Entradas
-    if (parseInt(parseInt(val_n)) == dados_convertidos.length) {
+    if ((parseInt(val_n)) == dados_convertidos.length) {
 
         // Realiza menor soma
         array_final_menor = dados_convertidos.sort();
