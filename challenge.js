@@ -38,7 +38,6 @@ function calculo() {
     }
 }
 
-//Funcao que limpa os campos
 function limpar(){
     document.getElementById('val_n').value="";
     document.getElementById('val_v').value="";
